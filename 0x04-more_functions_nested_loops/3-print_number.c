@@ -1,10 +1,12 @@
+table File  19 lines (17 sloc)  232 Bytes
+   
 #include "main.h"
 
 /**
  * print_numbers - prints numbers from 0 to 9 without using standard functions
  *
  *
- * Return: returns a void
+ * Return: void
  */
 void print_numbers(void)
 {
@@ -16,3 +18,4 @@ void print_numbers(void)
 		c++;
 	}
 	_putchar('\n');
+}
