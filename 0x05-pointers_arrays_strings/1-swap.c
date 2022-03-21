@@ -4,7 +4,7 @@
  * swap_int(int *a, int *b) -a function to swap
  * no return 0
  */
- void swap_int(int a*,int *b)
+void swap_int(int *a, int *b)
 {
 int x = 0;
 c = a*;
