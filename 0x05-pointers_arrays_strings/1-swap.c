@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * main -header file to check our functions
  * swap_int  -a function to swap
