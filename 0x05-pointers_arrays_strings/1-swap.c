@@ -1,7 +1,9 @@
 #include "main.h"
 /**
  * main -header file to check our functions
- * swap_int(int *a, int *b) -a function to swap
+ * swap_int  -a function to swap
+ * @a: first num
+ * @b: second num
  * no return 0
  */
 void swap_int(int *a, int *b)
