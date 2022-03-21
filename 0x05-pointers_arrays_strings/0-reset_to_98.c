@@ -1,13 +1,11 @@
 #include "main.h"
-
 /**
-* 0-reset_to_98 -takes a pointer to an int 
+*0-reset_to_98 -takes a pointer to an int 
 * @n: use *n
 * No Return 0;
 */
-
 void reset_to_98(int *n)
 {
-    *n=98;
+    *n = 98;
 }
 
