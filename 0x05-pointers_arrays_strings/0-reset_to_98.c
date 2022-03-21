@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
- * use main.h as it has predefined functions 
- *is void and *n
- */
+* void reset_to_98 -takes a pointer to an int as parameter and updates the value it points to to 98
+* @n: use *n
+* No Return 0;
+*/
 
 void reset_to_98(int *n)
 {
