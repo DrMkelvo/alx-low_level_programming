@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main -header file to check our functions
- * swap_int  -a function to swap
+ * swap_int - a function to swap
  * @a: first num
  * @b: second num
  * no return 0
