@@ -1,8 +1,8 @@
 #include "main.h"
 /**
 * _puts - prints a string followed by a new line
-* @str: pointer
-* Return null
+* @str: pointer will be changed
+* Returns void
 */
 void _puts(char *str)
 {
